@@ -1,0 +1,6 @@
+version: 2
+
+models:
+  - name: paid_ads_basic_performance_structure
+    description: >
+        Marketing common data models (MCDM) to map data from various ad platforms into a single one.
