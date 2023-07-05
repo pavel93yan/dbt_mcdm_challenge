@@ -1,0 +1,12 @@
+version: 2
+
+
+models:
+    - name: stg_ads_bing_all_data
+      description: Staging model for ads_bing_all_data.
+    - name: src_ads_creative_facebook_all_data
+      description: Staging model for ads_creative_facebook_all_data .
+    - name: src_ads_tiktok_ads_all_data
+      description: Staging model for ads_tiktok_ads_all_data.
+    - name: src_promoted_tweets_twitter_all_data
+      description: Staging model for promoted_tweets_twitter_all_data.                     
